@@ -1,0 +1,4 @@
+lat lon speed azimuth https://www.unavco.org/software/geodetic-utilities/plate-motion-calculator/plate-motion-calculator.html
+13.300000       -95.000000  76.56	33.39
+14.000000	-99.000000  70.52	34.53
+14.700000       -103.000000 64.29	35.03
