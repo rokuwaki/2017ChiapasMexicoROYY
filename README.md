@@ -14,7 +14,7 @@ Submitted for publication in *Geophysical Research Letters* on October 6, 2017 a
 
 - [SAC files](./SACfiles)
 
-- [Slip model](./s2017CHIAPA01OKUW.fsp) (fsp format/[Summary figure](./fig/map_slip_upload.png))
+- Slip model ([fsp format file](./s2017CHIAPA01OKUW.fsp)/[Summary figure](./fig/map_slip_upload.png))
 
 - [Data for figures](./data)
 
