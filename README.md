@@ -16,8 +16,20 @@ Submitted for publication in *Geophysical Research Letters* on October 6, 2017 a
 
 - [Slip models](./s2017CHIAPA01OKUW.fsp) (fsp format)
 
+- [Data for figures](./data)
+
 - [Jupyte-notebook](./fig.ipynb)
 
 - [Figures](./fig)
 
-- [Data for figures](./data)
+Fig. 1
+<img src="./fig/map.jpg" alt="Fig. 4" width="50%" />
+
+Fig. 2
+<img src="./fig/focaldepths.jpg" alt="Fig. 4" width="25%" />
+
+Fig. 3
+<img src="./fig/modelsettingresults.jpg" alt="Fig. 4" width="50%" />
+
+Fig. 4
+<img src="./fig/slipsummary.jpg" alt="Fig. 4" width="50%" />
