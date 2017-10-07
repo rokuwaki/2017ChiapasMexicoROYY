@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/105897339.svg)](https://zenodo.org/badge/latestdoi/105897339)
+
 Submitted for publication in *Geophysical Research Letters* on October 6, 2017 at 08:34:50 (UTC-4).
 
 This archive follows the rule of [Wiley's Self-Archiving Policy](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-open-access/open-access/self-archiving.html).
