@@ -8,7 +8,7 @@ Submitted for publication in *Geophysical Research Letters* on October 6, 2017 a
 
 # Contents
 
-- [Submitted manuscript](./doc/818741_0_merged_1507292562.pdf) (PDF: 1.1MB)
+- [Submitted manuscript](./doc/submittedmanuscript.pdf) (PDF: 1.1MB)
 
 - [Supporting information](./doc/818741_0_unknown_upload_5100358_vxvv4k_convrt.pdf) (PDF: 9.2MB)
 
