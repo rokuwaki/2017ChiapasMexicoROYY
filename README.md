@@ -10,9 +10,9 @@ This archive follows the rule of [Wiley's Self-Archiving Policy](https://authors
 
 # Contents
 
-- [Submitted manuscript](./doc/submittedmanuscript.pdf) (PDF: 1.1MB)
+- [Submitted manuscript](./doc/submittedmanuscript.pdf) (PDF: 693 KB)
 
-- [Supporting information](./doc/818741_0_unknown_upload_5100358_vxvv4k_convrt.pdf) (PDF: 9.2MB)
+- [Supporting information](./doc/818741_0_unknown_upload_5100358_vxvv4k_convrt.pdf) (PDF: 8.77 MB)
 
 - [SAC files](./SACfiles)
 
