@@ -1,5 +1,7 @@
 Submitted for publication in *Geophysical Research Letters* on October 6, 2017 at 08:34:50 (UTC-4).
 
+This archive follows the rule of [Wiley's Self-Archiving Policy](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-open-access/open-access/self-archiving.html).
+
 # Rupture Process during the Mw 8.1 2017 Chiapas Mexico Earthquake: Shallow Intraplate Normal Faulting by Slab Bending</h1>
 
 [Ryo Okuwaki](https://rokuwaki.github.io) & [Yuji Yagi](http://www.geol.tsukuba.ac.jp/~yagi-y/eng/index.html)
