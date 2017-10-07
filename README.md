@@ -16,7 +16,7 @@ This archive follows the rule of [Wiley's Self-Archiving Policy](https://authors
 
 - [SAC files](./SACfiles)
 
-- Slip model ([fsp format file](./s2017CHIAPA01OKUW.fsp)/[Summary figure](./fig/map_slip_upload.png))
+- Slip model ([fsp format file](./data/s2017CHIAPA01OKUW.fsp)/[Summary figure](./fig/map_slip_upload.png))
 
 - [Data for figures](./data)
 
