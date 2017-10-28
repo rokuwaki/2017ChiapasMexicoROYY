@@ -10,6 +10,10 @@ This archive follows the rule of [Wiley's Self-Archiving Policy](https://authors
 
 - Corresponding author: Ryo Okuwaki ([rokuwaki@geol.tsukuba.ac.jp](mailto:rokuwaki@geol.tsukuba.ac.jp))
 
+# Abstract
+
+A seismic source model for the MW 8.1 2017 Chiapas, Mexico, earthquake was constructed by kinematic waveform inversion using globally observed teleseismic waveforms, suggesting that the earthquake was a normal faulting event on a steeply dipping plane, with the major slip concentrated around a relatively shallow depth of 28 km. The modeled rupture evolution showed unilateral, down-going propagation northwestward from the hypocenter, and the down-dip width of the main rupture was restricted to less than 30 km below the slab interface, suggesting that the down-dip extensional stresses due to the slab bending were the primary cause of the earthquake. The rupture front abruptly decelerated at the northwestern end of the main rupture where it intersected the subducting Tehuantepec Fracture Zone, suggesting that the fracture zone may have inhibited further rupture propagation. 
+
 # Contents
 
 - [Submitted manuscript](./doc/submittedmanuscript.pdf) (PDF: 693 KB)
