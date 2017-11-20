@@ -2,7 +2,7 @@
 
 Submitted for publication in *Geophysical Research Letters* on October 6, 2017 at 08:34:50 (UTC-4).
 
-Accepted in GRL on November 19, 2017 at 11:11:34 (UTC-4).
+Accepted in GRL on November 19, 2017 at 11:11:34 (UTC-4), and a formal DOI for the article will be provided soon. 
 
 This archive follows the rule of [Wiley's Self-Archiving Policy](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-open-access/open-access/self-archiving.html).
 
