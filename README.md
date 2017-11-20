@@ -1,9 +1,3 @@
-[![DOI](https://zenodo.org/badge/105897339.svg)](https://zenodo.org/badge/latestdoi/105897339)
-
-Submitted for publication in *Geophysical Research Letters* on October 6, 2017 at 08:34:50 (UTC-4).
-
-Accepted in GRL on November 19, 2017 at 11:11:34 (UTC-4), and a formal DOI for the article will be provided soon. 
-
 This archive follows the rule of [Wiley's Self-Archiving Policy](https://authorservices.wiley.com/author-resources/Journal-Authors/licensing-open-access/open-access/self-archiving.html).
 
 # Rupture Process during the Mw 8.1 2017 Chiapas Mexico Earthquake: Shallow Intraplate Normal Faulting by Slab Bending
@@ -12,7 +6,7 @@ This archive follows the rule of [Wiley's Self-Archiving Policy](https://authors
 
 - Corresponding author: Ryo Okuwaki ([rokuwaki@geol.tsukuba.ac.jp](mailto:rokuwaki@geol.tsukuba.ac.jp))
 
-- Accepted 2017 November 19. Revision submitted 2017 November 15; Initial submission 2017 October 06
+- Accepted 2017-11-19. Revision submitted 2017-11-15. Initial submission 2017-10-06.
 
 # Abstract
 
@@ -26,7 +20,7 @@ A seismic source model for the Mw 8.1 2017 Chiapas, Mexico, earthquake was const
 
 - [SAC files used in this study](./SACfiles)
 
-- Slip model ([fsp format file](./data/s2017CHIAPA01OKUW.fsp)/[Summary figure](./fig/map_slip_upload.png))
+- Slip model shown in Figure 4 ([fsp format file](./data/s2017CHIAPA01OKUW.fsp)/[Summary figure](./fig/map_slip_upload.png))
 
 - [Data for figures](./data)
 
