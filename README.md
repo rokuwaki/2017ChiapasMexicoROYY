@@ -29,7 +29,7 @@ A seismic source model for the Mw 8.1 2017 Chiapas, Mexico, earthquake was const
 - [Figures](./fig)
 
 Fig. 1
-<img src="./fig/map_r.jpg" alt="Fig. 4" width="50%" />
+<img src="./fig/map.jpg" alt="Fig. 4" width="50%" />
 
 Fig. 2
 <img src="./fig/focaldepths.jpg" alt="Fig. 4" width="25%" />
