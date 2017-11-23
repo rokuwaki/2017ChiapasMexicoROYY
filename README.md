@@ -35,7 +35,7 @@ Fig. 2
 <img src="./fig/focaldepths.jpg" alt="Fig. 4" width="25%" />
 
 Fig. 3
-<img src="./fig/modelsettingresults.jpg" alt="Fig. 4" width="50%" />
+<img src="./fig/modelsettingresults_init.jpg" alt="Fig. 4" width="50%" />
 
 Fig. 4
 <img src="./fig/slipsummary.jpg" alt="Fig. 4" width="50%" />
