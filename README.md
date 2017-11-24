@@ -16,6 +16,8 @@ A seismic source model for the Mw 8.1 2017 Chiapas, Mexico, earthquake was const
 
 - [Submitted manuscript (preprint)](./doc/submittedmanuscript.pdf) (PDF: 693 KB)
 
+  This is the pre-peer reviewed version of the following article: Rupture Process during the MW 8.1 2017 Chiapas Mexico Earthquake: Shallow Intraplate Normal Faulting by Slab Bending, which has been published in final form at [http://dx.doi.org/10.1002/2017GL075956](http://dx.doi.org/10.1002/2017GL075956). This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Self-Archiving.
+
 - [Supporting information](./doc/818741_1_supp_5194921_gzg4xh_convrt.pdf) (PDF: 6.41 MB)
 
 - [SAC files used in this study](./SACfiles)
