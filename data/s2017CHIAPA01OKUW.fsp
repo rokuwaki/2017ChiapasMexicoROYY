@@ -1,11 +1,11 @@
 % ----------------------------------  FINITE-SOURCE RUPTURE MODEL  --------------------------------
 %
-% Event : Chiapas, Mexico  		09/08/2017 		[Okuwaki and Yagi (201X)]
+% Event : Chiapas, Mexico  		09/08/2017 		[Okuwaki and Yagi (2017)]
 % EventTAG: s2017CHIAPA01OKUW
 %
 % Loc  : LAT  = 14.850    LON  = -94.110    DEP  = 18.0
 % Size : LEN  = 145.0 km  WID  =  65.0 km   Mw   = 8.1       Mo   = 1.88e+21 Nm
-% Mech : STRK = 316.0     DIP  = 81.0       RAKE = -61.1     Htop = 5.654 km
+% Mech : STRK = 316.0     DIP  = 81.0       RAKE = 999.0     Htop = 5.654 km
 % Rupt : HypX = 12.50 km  HypZ = 12.50 km   avTr = 999.0 s   avVr = 999.0 km/s
 %
 % ----------------------------------  inversion-related parameters  --------------------------------
