@@ -8,7 +8,7 @@ This archive follows the rule of [Wiley's Self-Archiving Policy](https://authors
 
 - Accepted 2017-11-19. Revision submitted 2017-11-15. Initial submission 2017-10-06.
 
-- DOI: [10.1002/2017GL075956](https://dx.doi.org/10.1002/2017GL075956)
+- DOI: [10.1002/2017GL075956](https://doi.org/10.1002/2017GL075956)
 
 # Abstract
 
@@ -18,7 +18,7 @@ A seismic source model for the Mw 8.1 2017 Chiapas, Mexico, earthquake was const
 
 - [Submitted manuscript (preprint)](./doc/draft.pdf) (PDF: 706 KB)
 
-  This is the pre-peer reviewed version of the following article: "Okuwaki, R. & Yagi, Y. (2017). Rupture Process during the Mw 8.1 2017 Chiapas Mexico Earthquake: Shallow Intraplate Normal Faulting by Slab Bending. Geophysical Research Letters", which has been published in final form at [https://dx.doi.org/10.1002/2017GL075956](https://dx.doi.org/10.1002/2017GL075956). This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Self-Archiving.
+  This is the pre-peer reviewed version of the following article: "Okuwaki, R. & Yagi, Y. (2017). Rupture Process during the Mw 8.1 2017 Chiapas Mexico Earthquake: Shallow Intraplate Normal Faulting by Slab Bending. Geophysical Research Letters", which has been published in final form at [https://doi.org/10.1002/2017GL075956](https://doi.org/10.1002/2017GL075956). This article may be used for non-commercial purposes in accordance with Wiley Terms and Conditions for Self-Archiving.
 
 - [Supporting information](./doc/818741_1_supp_5194921_gzg4xh_convrt.pdf) (PDF: 6.41 MB)
 
